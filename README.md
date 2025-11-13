@@ -3,14 +3,18 @@
 API REST desenvolvida em Spring Boot para gerenciar consertos de veículos conforme requisitos das Avaliações 1, 2 e 3 do curso.
 
 ## 📋 Índice
-- [Tecnologias Utilizadas](#tecnologias-utilizadas)
-- [Requisitos do Sistema](#requisitos-do-sistema)
-- [Como Executar](#como-executar)
-- [Avaliações Implementadas](#avaliações-implementadas)
-- [Endpoints da API](#endpoints-da-api)
-- [Autenticação e Segurança](#autenticação-e-segurança)
-- [Exemplos de Uso](#exemplos-de-uso)
-- [Estrutura do Projeto](#estrutura-do-projeto)
+- [Tecnologias Utilizadas](#-tecnologias-utilizadas)
+- [Requisitos do Sistema](#-requisitos-do-sistema)
+- [Como Executar](#️-como-executar)
+- [Avaliações Implementadas](#-avaliações-implementadas)
+- [Modelagem de Dados](#-modelagem-de-dados)
+- [Endpoints da API](#-endpoints-da-api)
+- [Autenticação e Segurança](#-autenticação-e-segurança)
+- [PLUS - Front-end em Desenvolvimento](#-plus---front-end-em-desenvolvimento-branch-dev)
+- [Exemplos de Uso](#-exemplos-de-uso)
+- [Estrutura do Projeto](#-estrutura-do-projeto)
+- [Troubleshooting](#-troubleshooting)
+- [Status das Entregas](#-status-das-entregas)
 
 ## 🚀 Tecnologias Utilizadas
 
